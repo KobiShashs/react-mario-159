@@ -1,0 +1,12 @@
+.Menu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+}
+
+
+.Menu>* {
+    margin: 10px;
+    font-size: 22px;
+}
